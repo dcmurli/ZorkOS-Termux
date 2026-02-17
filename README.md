@@ -97,18 +97,16 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; Quick Install &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Just+two+command.+That%27s+it.+%F0%9F%92%BB;Copy+%E2%86%92+Paste+%E2%86%92+Restart+%E2%86%92+Enjoy+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Just+one+command.+That%27s+it.+%F0%9F%92%BB;Copy+%E2%86%92+Paste+%E2%86%92+Restart+%E2%86%92+Enjoy+%F0%9F%94%A5" />
 
 </div>
 
 <br>
 
 ```bash
-git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod +x *
+git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod +x *;./install
 ```
-```
-./install.sh
-```
+
 
 <div align="center">
 <br>
