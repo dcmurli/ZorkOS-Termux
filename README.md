@@ -128,12 +128,12 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 <table>
 <tr>
-<td align="center"><img src="images/photo_2026-02-17_13-23-58.jpg" width="280" /><br><sub><b>⚡ Boot Animation</b></sub></td>
-<td align="center"><img src="images/photo_2026-02-17_13-24-35.jpg" width="280" /><br><sub><b>🎮 Main Menu</b></sub></td>
+<td align="center"><img src="images/photo_2026-02-17_13-23-58.jpg" width="280" /><br><sub><b>⚡ Themes</b></sub></td>
+<td align="center"><img src="images/photo_2026-02-17_13-24-35.jpg" width="280" /><br><sub><b>🎮 Themes</b></sub></td>
 </tr>
 <tr>
 <td align="center"><img src="images/photo_2026-02-17_13-24-45.jpg" width="280" /><br><sub><b>🎨 Theme Engine</b></sub></td>
-<td align="center"><img src="images/photo_2026-02-17_13-24-53.jpg" width="280" /><br><sub><b>📊 Dashboard</b></sub></td>
+<td align="center"><img src="images/photo_2026-02-17_13-24-53.jpg" width="280" /><br><sub><b>🎮 Menu</b></sub></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><img src="images/photo_2026-02-17_13-25-00.jpg" width="280" /><br><sub><b>💀 Hacker Mode</b></sub></td>
