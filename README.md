@@ -117,6 +117,34 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      SCREENSHOTS SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCJ8ZL1i8/giphy.gif" width="35"> &nbsp; Screenshots &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCJ8ZL1i8/giphy.gif" width="35">
+
+<br>
+
+<table>
+<tr>
+<td align="center"><img src="images/photo_2026-02-17_13-23-58.jpg" width="280" /><br><sub><b>⚡ Boot Animation</b></sub></td>
+<td align="center"><img src="images/photo_2026-02-17_13-24-35.jpg" width="280" /><br><sub><b>🎮 Main Menu</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/photo_2026-02-17_13-24-45.jpg" width="280" /><br><sub><b>🎨 Theme Engine</b></sub></td>
+<td align="center"><img src="images/photo_2026-02-17_13-24-53.jpg" width="280" /><br><sub><b>📊 Dashboard</b></sub></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="images/photo_2026-02-17_13-25-00.jpg" width="280" /><br><sub><b>💀 Hacker Mode</b></sub></td>
+</tr>
+</table>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       FEATURES SECTION                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
