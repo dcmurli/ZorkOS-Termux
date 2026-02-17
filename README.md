@@ -6,7 +6,7 @@
 <!-- ═══════════════════ ANIMATED TYPING BANNER ═══════════════════ -->
 <br>
 <a href="https://github.com/samay825/ZorkOS-Termux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+ZORKOS+v2.0+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%F0%9F%94%A5+2026+Cyberpunk+Edition" alt="ZorkOS Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+ZORKOS+v2.0+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%F0%9F%94%A5+2026+Cyberpunk+Edition+%F0%9F%94%A5;%E2%9A%A1+Transform+Your+Terminal+%E2%9A%A1" alt="ZorkOS Animated Title" />
 </a>
 <br><br>
 
@@ -74,11 +74,11 @@
  ║   into a CYBERPUNK-STYLED POWERHOUSE.                        ║
  ║                                                              ║
  ║   One single command installs everything:                    ║
- ║   → Themes, Animations, Plugins, Fonts, Colors               ║
- ║   → 17+ Feature Modules  |  140+ ZSH Themes                  ║
+ ║   → Themes, Animations, Plugins, Fonts, Colors              ║
+ ║   → 17+ Feature Modules  |  140+ ZSH Themes                 ║
  ║   → Security System  |  Achievement Engine                   ║
  ║                                                              ║
- ║   ⚡ No root required  ⚡ No bloat  ⚡ Pure power           
+ ║   ⚡ No root required  ⚡ No bloat  ⚡ Pure power            ║
  ║                                                              ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -97,7 +97,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; Quick Install &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Just+one+command.+That's+it.+💻;Copy+→+Paste+→+Restart+→+Enjoy+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Just+one+command.+That%27s+it.+%F0%9F%92%BB;Copy+%E2%86%92+Paste+%E2%86%92+Restart+%E2%86%92+Enjoy+%F0%9F%94%A5" />
 
 </div>
 
@@ -132,7 +132,7 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 <!-- ─────────── 🎨 CUSTOMIZATION ─────────── -->
 <details>
-<summary><h3>🎨 &nbsp; Customization Engine &nbsp; <sup><img src="https://img.shields.io/badge/5_MODULES-00FF88?style=flat-square&labelColor=0D0D1A" /></sup></h3></summary>
+<summary><b style="font-size:1.17em">🎨 &nbsp; Customization Engine &nbsp; <sup><img src="https://img.shields.io/badge/5_MODULES-00FF88?style=flat-square&labelColor=0D0D1A" /></sup></b></summary>
 
 <div align="center">
 
@@ -149,7 +149,7 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 <!-- ─────────── ✨ ANIMATIONS ─────────── -->
 <details>
-<summary><h3>✨ &nbsp; Boot & Animations &nbsp; <sup><img src="https://img.shields.io/badge/4_MODULES-00E6FF?style=flat-square&labelColor=0D0D1A" /></sup></h3></summary>
+<summary><b style="font-size:1.17em">✨ &nbsp; Boot & Animations &nbsp; <sup><img src="https://img.shields.io/badge/4_MODULES-00E6FF?style=flat-square&labelColor=0D0D1A" /></sup></b></summary>
 
 <div align="center">
 
@@ -165,7 +165,7 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 <!-- ─────────── 🛡️ SECURITY ─────────── -->
 <details>
-<summary><h3>🛡️ &nbsp; Security Suite &nbsp; <sup><img src="https://img.shields.io/badge/5_MODULES-FF3C3C?style=flat-square&labelColor=0D0D1A" /></sup></h3></summary>
+<summary><b style="font-size:1.17em">🛡️ &nbsp; Security Suite &nbsp; <sup><img src="https://img.shields.io/badge/5_MODULES-FF3C3C?style=flat-square&labelColor=0D0D1A" /></sup></b></summary>
 
 <div align="center">
 
@@ -182,7 +182,7 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 <!-- ─────────── 🏆 GAMIFICATION ─────────── -->
 <details>
-<summary><h3>🏆 &nbsp; Gamification & Productivity &nbsp; <sup><img src="https://img.shields.io/badge/6_MODULES-FFE600?style=flat-square&labelColor=0D0D1A" /></sup></h3></summary>
+<summary><b style="font-size:1.17em">🏆 &nbsp; Gamification & Productivity &nbsp; <sup><img src="https://img.shields.io/badge/6_MODULES-FFE600?style=flat-square&labelColor=0D0D1A" /></sup></b></summary>
 
 <div align="center">
 
@@ -200,7 +200,7 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 <!-- ─────────── 💀 POWER FEATURES ─────────── -->
 <details>
-<summary><h3>💀 &nbsp; Power Features &nbsp; <sup><img src="https://img.shields.io/badge/6_MODULES-C800FF?style=flat-square&labelColor=0D0D1A" /></sup></h3></summary>
+<summary><b style="font-size:1.17em">💀 &nbsp; Power Features &nbsp; <sup><img src="https://img.shields.io/badge/6_MODULES-C800FF?style=flat-square&labelColor=0D0D1A" /></sup></b></summary>
 
 <div align="center">
 
@@ -216,7 +216,66 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 </div>
 </details>
 
+<br>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT STRUCTURE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="35"> &nbsp; Project Architecture &nbsp; <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="35">
+
+</div>
+
+```
+ZorkOS-Termux/
+│
+├── 🚀 install.sh                  # One-command installer
+├── 🎮 zork_customizer.sh          # Main menu & CLI interface
+│
+├── 📁 assets/
+│   └── 📊 motd.sh                 # Message of the Day engine
+│
+├── 🔊 bootsound/                  # Boot sound MP3 files
+│
+├── 🎨 configs/
+│   ├── 🌈 colors-*.properties     # 6 terminal color schemes
+│   └── ⚙️ termux.properties       # Termux configuration
+│
+├── 📚 lib/
+│   ├── 🔮 gradient_engine.sh      # Truecolor gradient renderer
+│   ├── 📐 responsive.sh           # Screen-adaptive layouts
+│   ├── ✨ animations.sh           # Boot animation engine (7 styles)
+│   ├── 🔐 auth_system.sh          # Multi-user auth + login UI
+│   ├── 🏆 achievements.sh         # XP & achievement tracker
+│   ├── 🏴 banners.sh              # 10+ ASCII banner styles
+│   ├── 🏷️ name_banner.sh          # FIGlet name banner generator
+│   ├── 📊 dashboard.sh            # System monitor dashboard
+│   ├── 💀 hacker_mode.sh          # Matrix-style terminal mode
+│   ├── 🖥️ screensaver.sh          # 4 screensaver styles
+│   ├── 🌤️ weather.sh              # Weather widget
+│   ├── 🍅 pomodoro.sh             # Focus timer
+│   ├── 📝 quick_notes.sh          # Notes system
+│   ├── 📌 bookmarks.sh            # Directory bookmarks
+│   ├── 🔌 plugin_manager.sh       # Oh-My-Zsh plugin manager
+│   ├── 💾 backup_restore.sh       # Config backup/restore
+│   └── ⚡ zshrc_generator.sh      # Dynamic .zshrc builder
+│
+├── 🎭 themes/
+│   ├── ⭐ zork-2026.zsh-theme     # Flagship (powerline + gradients)
+│   ├── 💜 zork-neon.zsh-theme
+│   ├── ⚪ zork-minimal.zsh-theme
+│   └── 📦 140+ more themes...
+│
+└── 🔌 plugins/                    # Bundled Oh-My-Zsh plugins
+```
+
+<br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -230,7 +289,7 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> &nbsp; CLI Commands &nbsp; <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=00E6FF&center=true&vCenter=true&width=500&lines=Just+type+'zork'+and+you're+in+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=00E6FF&center=true&vCenter=true&width=500&lines=Just+type+%27zork%27+and+you%27re+in+%F0%9F%9A%80" />
 
 </div>
 
@@ -646,7 +705,7 @@ git push origin feature/your-feature
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=⚡+Built+with+%F0%9F%92%9A+by+Zork+%7C+2026+⚡;Thanks+for+visiting!+Drop+a+⭐+if+you+like+it!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9A%A1+Built+with+%F0%9F%92%9A+by+Zork+%7C+2026+%E2%9A%A1;Thanks+for+visiting%21+Drop+a+%E2%AD%90+if+you+like+it%21" alt="Footer Typing" />
 
 <br>
 
