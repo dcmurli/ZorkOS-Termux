@@ -104,7 +104,10 @@
 <br>
 
 ```bash
-git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod +x *;./install.sh
+git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod +x *
+```
+```
+./install.sh
 ```
 
 <div align="center">
