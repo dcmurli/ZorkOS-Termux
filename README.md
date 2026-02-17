@@ -152,7 +152,7 @@ git clone https://github.com/samay825/ZorkOS-Termux && cd ZorkOS-Termux && chmod
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> &nbsp; Feature Arsenal &nbsp; <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1000&color=C800FF&center=true&vCenter=true&width=600&lines=17%2B+Modules+%7C+140%2B+Themes+%7C+Unlimited+Power+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1000&color=C800FF&center=true&vCenter=true&width=600&lines=17%2B+Modules+%7C+140%2B+Themes+%7C+Unlimited+Power+%E2%9A%A1" />
 
 </div>
 
