@@ -74,11 +74,11 @@
  ║   into a CYBERPUNK-STYLED POWERHOUSE.                        ║
  ║                                                              ║
  ║   One single command installs everything:                    ║
- ║   → Themes, Animations, Plugins, Fonts, Colors              ║
- ║   → 17+ Feature Modules  |  140+ ZSH Themes                 ║
+ ║   → Themes, Animations, Plugins, Fonts, Colors               ║
+ ║   → 17+ Feature Modules  |  140+ ZSH Themes                  ║
  ║   → Security System  |  Achievement Engine                   ║
  ║                                                              ║
- ║   ⚡ No root required  ⚡ No bloat  ⚡ Pure power            ║
+ ║   ⚡ No root required  ⚡ No bloat  ⚡ Pure power          |║
  ║                                                              ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
